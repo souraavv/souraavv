@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/{souraavv}/count.svg)
+![](https://komarev.com/ghpvc/?username=souraavv&color=green)
 <!--
 **souraavv/souraavv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
